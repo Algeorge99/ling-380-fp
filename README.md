@@ -10,3 +10,4 @@ Relevant files:
 * bert_for_sequence_classification -- BERT model
 * doc2vec code real -- doc2vec code
 * The data_analysis_on_examples.ipynb file compares performance on specific examples and needs qualifiers.csv, contradictory.csv, and figurative.csv from the csv_files folder
+* The csv_files colder also contains the example sentence file needed within each model. 
